@@ -1,0 +1,1 @@
+5 * * * * wget http://data.moi.gov.tw/MoiOD/System/DownloadFile.aspx?DATA=1E91AC2B-48B3-47A3-83B4-EB4A8AD930B9 -O /home/mark/www/traffic.js
